@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**diego-rascon/diego-rascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer specializing in full-stack web and mobile development. I bridge the gap between high-performance backends and polished, intuitive user interfaces. I’m deeply passionate about crafting seamless user experiences with meticulous attention to detail, ensuring every interaction feels intentional.
 
-Here are some ideas to get you started:
+On the server side, I focus on building scalable architectures and implementing industry best practices to ensure long-term maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack includes:
+
+## Programming Languages
+
+* TypeScript/JavaScript
+* Java
+* Go
+* Python
+* SQL
+* Bash
+
+## Frontend & Mobile
+
+* React
+* React Native
+* Next.js
+* Svelte/SvelteKit
+* Tailwind CSS
+
+## Backend & Database
+
+* Node.js
+* Spring
+* PostgreSQL
+* MySQL
+* Redis
+
+## Tools & Infrastructure
+
+* AWS
+* Docker
+* Git
+* Cursor
+* Frappe/ERPNext
+* Figma
+* Jira
