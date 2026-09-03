@@ -10,10 +10,7 @@ My current tech stack includes:
 
 * TypeScript/JavaScript
 * Java
-* Go
 * Python
-* SQL
-* Bash
 
 ## Frontend & Mobile
 
@@ -26,17 +23,22 @@ My current tech stack includes:
 ## Backend & Database
 
 * Node.js
-* Spring
+* Spring Boot
 * PostgreSQL
 * MySQL
 * Redis
+
+## AI-augmented engineering
+
+Pairing with AI coding agents to move faster on implementation while staying deliberate about architecture and quality.
+
+* OpenCode
+* Claude Code
+* Cursor
 
 ## Tools & Infrastructure
 
 * AWS
 * Docker
 * Git
-* Cursor
-* Frappe/ERPNext
 * Figma
-* Jira
