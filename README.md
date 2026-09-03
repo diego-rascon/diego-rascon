@@ -30,8 +30,6 @@ My current tech stack includes:
 
 ## AI-augmented engineering
 
-Pairing with AI coding agents to move faster on implementation while staying deliberate about architecture and quality.
-
 * OpenCode
 * Claude Code
 * Cursor
